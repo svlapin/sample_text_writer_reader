@@ -1,0 +1,15 @@
+{
+  "name": "rnd_text_writer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "writer.js",
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Lapin",
+  "license": "MIT"
+}
